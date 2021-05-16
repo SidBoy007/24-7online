@@ -8,4 +8,4 @@ type *TOKEN* in 'key'
 and put your token in 'value'
 
 
-put your status in keep_alive.py
+put your status in main.py.py
